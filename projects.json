@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/TrimKit",
+    "name": "TrimKit",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-09-08T19:00:46Z",
+    "size": 348,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/TrimKit/releases/tag/v0.1.0"
+  },
+  {
     "full_name": "Gorstak-Zadar/Debloat",
     "name": "Debloat",
     "description": null,
@@ -88,16 +98,6 @@
     "size": 232,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/TrimKit",
-    "name": "TrimKit",
-    "description": null,
-    "language": "C#",
-    "updated_at": "2026-09-08T15:20:27Z",
-    "size": 348,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/TrimKit/releases/tag/v0.1.0"
   },
   {
     "full_name": "Gorstak-Zadar/Provisioning",
