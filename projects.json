@@ -295,7 +295,7 @@
     "description": null,
     "language": "C#",
     "updated_at": "2026-09-08T15:14:50Z",
-    "size": 0,
+    "size": 1349,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Behavedr/releases/tag/v0.4.4"
   },
@@ -325,7 +325,7 @@
     "description": null,
     "language": "C#",
     "updated_at": "2026-09-08T15:12:31Z",
-    "size": 0,
+    "size": 363,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Benchmark/releases/tag/v0.4.0"
   },
