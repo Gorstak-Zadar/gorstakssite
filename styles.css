@@ -119,3 +119,25 @@ body {
 .footer a:hover {
   text-decoration: underline;
 }
+
+.download {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 0.85rem 2.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+  background: linear-gradient(90deg, #58a6ff, #a371f7);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.download-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(88, 166, 255, 0.35);
+}
