@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gorstak</title>
+  <meta name="description" content="Gorstak — security tooling, utilities, and open-source projects." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛡️</text></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <h1 class="logo">Gorstak</h1>
+      <p class="tagline">Security tooling, utilities, and open-source projects.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <p>
+        Open-source Windows security, hardening, and utility projects. Everything here is
+        free to use and available on GitHub.
+      </p>
+    </section>
+
+    <section class="projects">
+      <h2>Projects</h2>
+      <div class="grid">
+        <a class="card" href="https://github.com/Gorstak-Zadar/GSecurity" target="_blank" rel="noopener">
+          <h3>GSecurity</h3>
+          <p>Windows security and hardening toolkit.</p>
+        </a>
+        <a class="card" href="https://github.com/Gorstak-Zadar/Behavedr" target="_blank" rel="noopener">
+          <h3>Behavedr</h3>
+          <p>Behavioral endpoint detection and response.</p>
+        </a>
+        <a class="card" href="https://github.com/Gorstak-Zadar/GBrowser" target="_blank" rel="noopener">
+          <h3>GBrowser</h3>
+          <p>A minimal, privacy-focused browser.</p>
+        </a>
+        <a class="card" href="https://github.com/Gorstak-Zadar" target="_blank" rel="noopener">
+          <h3>All Projects &rarr;</h3>
+          <p>Browse everything on GitHub.</p>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; <span id="year"></span> Gorstak &middot;
+      <a href="https://github.com/Gorstak-Zadar" target="_blank" rel="noopener">GitHub</a>
+    </p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
