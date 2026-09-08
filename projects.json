@@ -1,25 +1,5 @@
 [
   {
-    "full_name": "Gorstak-Zadar/GorstaksAI",
-    "name": "GorstaksAI",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T14:57:49Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/gorstakssite",
-    "name": "gorstakssite",
-    "description": null,
-    "language": "HTML",
-    "updated_at": "2026-09-08T14:56:20Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "Gorstak-Zadar/Gorstak",
     "name": "Gorstak",
     "description": null,
