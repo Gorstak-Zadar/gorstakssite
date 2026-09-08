@@ -5,7 +5,7 @@
     "description": null,
     "language": null,
     "updated_at": "2026-09-08T15:44:06Z",
-    "size": 0,
+    "size": 140,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -255,7 +255,7 @@
     "description": null,
     "language": "Python",
     "updated_at": "2026-09-08T15:16:27Z",
-    "size": 0,
+    "size": 115,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -275,7 +275,7 @@
     "description": null,
     "language": "C#",
     "updated_at": "2026-09-08T15:15:55Z",
-    "size": 0,
+    "size": 126,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -285,7 +285,7 @@
     "description": null,
     "language": "C#",
     "updated_at": "2026-09-08T15:14:55Z",
-    "size": 0,
+    "size": 18408,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -305,7 +305,7 @@
     "description": null,
     "language": "C#",
     "updated_at": "2026-09-08T15:14:19Z",
-    "size": 0,
+    "size": 182751,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Ceprkac/releases/tag/v0.8.7"
   },
