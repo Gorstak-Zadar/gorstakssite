@@ -297,7 +297,7 @@
     "updated_at": "2026-09-08T15:07:48Z",
     "size": 0,
     "default_branch": "main",
-    "latestReleaseUrl": null
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Ceprkac/releases/tag/v0.8.7"
   },
   {
     "full_name": "Gorstak-Zadar/C",
@@ -317,6 +317,6 @@
     "updated_at": "2026-09-08T15:07:08Z",
     "size": 0,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Behavedr/releases/tag/v0.1.6"
+    "latestReleaseUrl": null
   }
 ]
