@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/Debloat",
+    "name": "Debloat",
+    "description": null,
+    "language": null,
+    "updated_at": "2026-09-08T15:44:06Z",
+    "size": 0,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "Gorstak-Zadar/My-Notes",
     "name": "My-Notes",
     "description": null,
@@ -245,16 +255,6 @@
     "description": null,
     "language": "Python",
     "updated_at": "2026-09-08T15:16:27Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/Debloat",
-    "name": "Debloat",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:16:15Z",
     "size": 0,
     "default_branch": "main",
     "latestReleaseUrl": null
