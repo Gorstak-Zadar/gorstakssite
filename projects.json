@@ -55,7 +55,7 @@
     "description": null,
     "language": "C#",
     "updated_at": "2026-09-08T15:21:19Z",
-    "size": 0,
+    "size": 52047,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -65,7 +65,7 @@
     "description": null,
     "language": "Dart",
     "updated_at": "2026-09-08T15:20:59Z",
-    "size": 0,
+    "size": 396,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -85,7 +85,7 @@
     "description": null,
     "language": "Batchfile",
     "updated_at": "2026-09-08T15:20:37Z",
-    "size": 0,
+    "size": 232,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -215,7 +215,7 @@
     "description": null,
     "language": null,
     "updated_at": "2026-09-08T15:17:44Z",
-    "size": 0,
+    "size": 159,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -235,7 +235,7 @@
     "description": null,
     "language": "PowerShell",
     "updated_at": "2026-09-08T15:17:16Z",
-    "size": 0,
+    "size": 24,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -245,7 +245,7 @@
     "description": null,
     "language": "HTML",
     "updated_at": "2026-09-08T15:16:48Z",
-    "size": 0,
+    "size": 689,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -265,7 +265,7 @@
     "description": null,
     "language": "JavaScript",
     "updated_at": "2026-09-08T15:16:11Z",
-    "size": 0,
+    "size": 207,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
