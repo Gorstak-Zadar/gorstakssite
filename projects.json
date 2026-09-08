@@ -1,5 +1,55 @@
 [
   {
+    "full_name": "Gorstak-Zadar/Sentinel",
+    "name": "Sentinel",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-09-08T15:20:54Z",
+    "size": 0,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.5.6"
+  },
+  {
+    "full_name": "Gorstak-Zadar/GS",
+    "name": "GS",
+    "description": null,
+    "language": "Batchfile",
+    "updated_at": "2026-09-08T15:20:37Z",
+    "size": 0,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "Gorstak-Zadar/TrimKit",
+    "name": "TrimKit",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-09-08T15:20:27Z",
+    "size": 0,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "Gorstak-Zadar/Provisioning",
+    "name": "Provisioning",
+    "description": null,
+    "language": null,
+    "updated_at": "2026-09-08T15:20:08Z",
+    "size": 0,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "Gorstak-Zadar/Powershell",
+    "name": "Powershell",
+    "description": null,
+    "language": "PowerShell",
+    "updated_at": "2026-09-08T15:19:58Z",
+    "size": 0,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "Gorstak-Zadar/RamCleaner",
     "name": "RamCleaner",
     "description": null,
@@ -15,16 +65,6 @@
     "description": null,
     "language": "Python",
     "updated_at": "2026-09-08T15:19:06Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/GSecurity-tmp",
-    "name": "GSecurity-tmp",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:18:55Z",
     "size": 0,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -240,51 +280,11 @@
     "latestReleaseUrl": null
   },
   {
-    "full_name": "Gorstak-Zadar/TrimKit",
-    "name": "TrimKit",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:11:32Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/Sentinel",
-    "name": "Sentinel",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:11:24Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.5.6"
-  },
-  {
     "full_name": "Gorstak-Zadar/Registry",
     "name": "Registry",
     "description": null,
     "language": null,
     "updated_at": "2026-09-08T15:11:08Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/Provisioning",
-    "name": "Provisioning",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:10:37Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/Powershell",
-    "name": "Powershell",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:10:28Z",
     "size": 0,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -315,16 +315,6 @@
     "description": null,
     "language": null,
     "updated_at": "2026-09-08T15:09:04Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/GS",
-    "name": "GS",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:08:45Z",
     "size": 0,
     "default_branch": "main",
     "latestReleaseUrl": null
