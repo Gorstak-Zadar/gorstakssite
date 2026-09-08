@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/Sentinel",
+    "name": "Sentinel",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-09-08T21:44:52Z",
+    "size": 1949,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.5.6"
+  },
+  {
     "full_name": "Gorstak-Zadar/TrimKit",
     "name": "TrimKit",
     "description": null,
@@ -78,16 +88,6 @@
     "size": 396,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/Sentinel",
-    "name": "Sentinel",
-    "description": null,
-    "language": "C#",
-    "updated_at": "2026-09-08T15:20:54Z",
-    "size": 1949,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.5.6"
   },
   {
     "full_name": "Gorstak-Zadar/GS",
