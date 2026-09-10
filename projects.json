@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/Ceprkac",
+    "name": "Ceprkac",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-09-10T17:41:16Z",
+    "size": 182751,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Ceprkac/releases/tag/v0.8.8"
+  },
+  {
     "full_name": "Gorstak-Zadar/Sentinel",
     "name": "Sentinel",
     "description": null,
@@ -298,16 +308,6 @@
     "size": 1349,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Behavedr/releases/tag/v0.4.4"
-  },
-  {
-    "full_name": "Gorstak-Zadar/Ceprkac",
-    "name": "Ceprkac",
-    "description": null,
-    "language": "C#",
-    "updated_at": "2026-09-08T15:14:19Z",
-    "size": 182751,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Ceprkac/releases/tag/v0.8.7"
   },
   {
     "full_name": "Gorstak-Zadar/Batch",
