@@ -15,9 +15,9 @@
     "description": null,
     "language": "C#",
     "updated_at": "2026-09-10T22:18:34Z",
-    "size": 3388,
+    "size": 3738,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.6.0"
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.6.2"
   },
   {
     "full_name": "Gorstak-Zadar/Registry",
