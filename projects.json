@@ -1,10 +1,20 @@
 [
   {
+    "full_name": "Gorstak-Zadar/Registry",
+    "name": "Registry",
+    "description": null,
+    "language": null,
+    "updated_at": "2026-09-10T19:26:15Z",
+    "size": 2810,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "Gorstak-Zadar/GSecurity-OEM",
     "name": "GSecurity-OEM",
     "description": null,
     "language": "HTML",
-    "updated_at": "2026-09-10T19:19:48Z",
+    "updated_at": "2026-09-10T19:26:01Z",
     "size": 237144,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -28,16 +38,6 @@
     "size": 2880,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.6.0"
-  },
-  {
-    "full_name": "Gorstak-Zadar/Registry",
-    "name": "Registry",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-09T01:01:22Z",
-    "size": 2810,
-    "default_branch": "main",
-    "latestReleaseUrl": null
   },
   {
     "full_name": "Gorstak-Zadar/TrimKit",
