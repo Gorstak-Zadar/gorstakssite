@@ -4,10 +4,10 @@
     "name": "Sentinel",
     "description": null,
     "language": "C#",
-    "updated_at": "2026-09-12T01:43:45Z",
+    "updated_at": "2026-09-12T01:46:03Z",
     "size": 3738,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.6.3"
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.6.4"
   },
   {
     "full_name": "Gorstak-Zadar/GSecurity-OEM",
