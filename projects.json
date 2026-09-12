@@ -37,7 +37,7 @@
     "updated_at": "2026-09-10T17:41:16Z",
     "size": 182759,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Ceprkac/releases/tag/v0.8.8"
+    "latestReleaseUrl": null
   },
   {
     "full_name": "Gorstak-Zadar/TrimKit",
@@ -47,7 +47,7 @@
     "updated_at": "2026-09-08T19:00:46Z",
     "size": 350,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/TrimKit/releases/tag/v0.1.0"
+    "latestReleaseUrl": null
   },
   {
     "full_name": "Gorstak-Zadar/Debloat",
@@ -287,7 +287,7 @@
     "updated_at": "2026-09-08T15:15:55Z",
     "size": 126,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/GIDE/releases/tag/v1.0.0"
+    "latestReleaseUrl": null
   },
   {
     "full_name": "Gorstak-Zadar/C",
@@ -307,7 +307,7 @@
     "updated_at": "2026-09-08T15:14:50Z",
     "size": 1349,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Behavedr/releases/tag/v0.4.4"
+    "latestReleaseUrl": null
   },
   {
     "full_name": "Gorstak-Zadar/Batch",
@@ -327,7 +327,7 @@
     "updated_at": "2026-09-08T15:12:31Z",
     "size": 363,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Benchmark/releases/tag/v0.4.0"
+    "latestReleaseUrl": null
   },
   {
     "full_name": "Gorstak-Zadar/AutoHotkey",
