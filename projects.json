@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/My-Notes",
+    "name": "My-Notes",
+    "description": null,
+    "language": null,
+    "updated_at": "2026-09-13T02:52:27Z",
+    "size": 282,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "Gorstak-Zadar/Sentinel",
     "name": "Sentinel",
     "description": null,
@@ -56,16 +66,6 @@
     "language": null,
     "updated_at": "2026-09-08T15:44:06Z",
     "size": 140,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/My-Notes",
-    "name": "My-Notes",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-09-08T15:30:42Z",
-    "size": 282,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
