@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/GBrowser",
+    "name": "GBrowser",
+    "description": null,
+    "language": "Python",
+    "updated_at": "2026-09-15T05:02:41Z",
+    "size": 115,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "Gorstak-Zadar/Sentinel",
     "name": "Sentinel",
     "description": null,
@@ -256,16 +266,6 @@
     "language": "HTML",
     "updated_at": "2026-09-08T15:16:48Z",
     "size": 689,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/GBrowser",
-    "name": "GBrowser",
-    "description": null,
-    "language": "Python",
-    "updated_at": "2026-09-08T15:16:27Z",
-    "size": 115,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
