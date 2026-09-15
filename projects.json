@@ -4,10 +4,10 @@
     "name": "Sentinel",
     "description": null,
     "language": "C#",
-    "updated_at": "2026-09-14T12:14:28Z",
+    "updated_at": "2026-09-15T01:14:45Z",
     "size": 5321,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.6.6"
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.6.7"
   },
   {
     "full_name": "Gorstak-Zadar/My-Notes",
