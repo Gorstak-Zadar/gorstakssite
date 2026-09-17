@@ -4,10 +4,10 @@
     "name": "Sentinel",
     "description": null,
     "language": "C#",
-    "updated_at": "2026-09-17T00:50:45Z",
+    "updated_at": "2026-09-17T00:54:11Z",
     "size": 6803,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.7.2"
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.7.3"
   },
   {
     "full_name": "Gorstak-Zadar/GBrowser",
