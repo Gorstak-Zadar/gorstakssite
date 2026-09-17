@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/Sentinel",
+    "name": "Sentinel",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-09-17T20:48:13Z",
+    "size": 7169,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.7.4"
+  },
+  {
     "full_name": "Gorstak-Zadar/Ceprkac",
     "name": "Ceprkac",
     "description": null,
@@ -8,16 +18,6 @@
     "size": 182834,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Ceprkac/releases/tag/v0.8.9"
-  },
-  {
-    "full_name": "Gorstak-Zadar/Sentinel",
-    "name": "Sentinel",
-    "description": null,
-    "language": "C#",
-    "updated_at": "2026-09-17T12:09:33Z",
-    "size": 7169,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.7.4"
   },
   {
     "full_name": "Gorstak-Zadar/GBrowser",
