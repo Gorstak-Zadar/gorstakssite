@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "Gorstak-Zadar/Sentinel",
+    "name": "Sentinel",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-09-18T23:32:04Z",
+    "size": 7664,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.7.6"
+  },
+  {
     "full_name": "Gorstak-Zadar/GSecurity-OEM",
     "name": "GSecurity-OEM",
     "description": null,
@@ -38,16 +48,6 @@
     "size": 326,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "Gorstak-Zadar/Sentinel",
-    "name": "Sentinel",
-    "description": null,
-    "language": "C#",
-    "updated_at": "2026-09-17T20:48:13Z",
-    "size": 7664,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/Gorstak-Zadar/Sentinel/releases/tag/v2.7.5"
   },
   {
     "full_name": "Gorstak-Zadar/Ceprkac",
