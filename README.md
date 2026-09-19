@@ -1,28 +1,28 @@
-# 🌐 gorstak-site
+#  gorstak-site
 
 > **Gorstak Project Showcase Website** - Static HTML portfolio site displaying GitHub projects with modern UI.
 
 ---
 
-## 📋 Overview
+##  Overview
 
 gorstak-site is a clean, modern portfolio website showcasing Gorstak's GitHub projects. Built with vanilla HTML, CSS, and JavaScript, it provides an elegant interface for browsing repositories with search and filtering capabilities.
 
 ---
 
-## 🎯 Features
+##  Features
 
-- 🔍 **Project Search** - Real-time search across all repositories
-- 🏷️ **Category Filtering** - Filter by project type
-- 📊 **Project Stats** - Display stars, forks, language info
-- 📱 **Responsive Design** - Works on all devices
-- ⚡ **Fast Loading** - Static site with optimized assets
-- 🔗 **Direct Links** - One-click access to GitHub repos
-- 🎨 **Modern UI** - Clean, professional design
+-  **Project Search** - Real-time search across all repositories
+-  **Category Filtering** - Filter by project type
+-  **Project Stats** - Display stars, forks, language info
+-  **Responsive Design** - Works on all devices
+-  **Fast Loading** - Static site with optimized assets
+-  **Direct Links** - One-click access to GitHub repos
+-  **Modern UI** - Clean, professional design
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File | Description |
 |------|-------------|
@@ -35,18 +35,18 @@ gorstak-site is a clean, modern portfolio website showcasing Gorstak's GitHub pr
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 ### GitHub Pages
 1. Fork this repository
-2. Go to Settings → Pages
+2. Go to Settings -> Pages
 3. Select main branch as source
 4. Site will be available at `https://yourusername.github.io/gorstak-site`
 
 ### Custom Domain
 1. Update `CNAME` file with your domain
 2. Configure DNS records:
-   - CNAME: `www` → `yourusername.github.io`
+   - CNAME: `www` -> `yourusername.github.io`
    - A Records: Point to GitHub Pages IPs
 3. Enable HTTPS in repository settings
 
@@ -64,7 +64,7 @@ http://localhost:8000
 
 ---
 
-## 📊 Data Structure
+##  Data Structure
 
 ### projects.json
 ```json
@@ -92,7 +92,7 @@ http://localhost:8000
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Colors & Theme
 Edit CSS variables in `index.html`:
@@ -121,7 +121,7 @@ Edit CSS variables in `index.html`:
 
 ---
 
-## 🔧 Features in Detail
+##  Features in Detail
 
 ### Search Functionality
 - Real-time filtering as you type
@@ -143,7 +143,7 @@ Edit CSS variables in `index.html`:
 
 ---
 
-## 📱 Browser Support
+##  Browser Support
 
 - Chrome/Edge (latest)
 - Firefox (latest)
@@ -152,7 +152,7 @@ Edit CSS variables in `index.html`:
 
 ---
 
-## 📝 Maintenance
+##  Maintenance
 
 ### Adding New Projects
 1. Open `projects.json`
@@ -178,7 +178,7 @@ Edit CSS variables in `index.html`:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] GitHub API integration for live stats
 - [ ] Dark mode toggle
@@ -189,7 +189,7 @@ Edit CSS variables in `index.html`:
 
 ---
 
-## 📜 License & Disclaimer
+##  License & Disclaimer
 ---
 
 ## Comprehensive legal disclaimer
